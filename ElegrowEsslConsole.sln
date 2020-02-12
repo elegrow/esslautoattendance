@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElegrowEsslConsole", "ElegrowEsslConsole.csproj", "{D1AA8353-2052-492C-B887-E4AD74F2FD4F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{180912EA-96FE-4B8E-97CB-4F92B10D34DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1AA8353-2052-492C-B887-E4AD74F2FD4F}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AA8353-2052-492C-B887-E4AD74F2FD4F}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D1AA8353-2052-492C-B887-E4AD74F2FD4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1AA8353-2052-492C-B887-E4AD74F2FD4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{180912EA-96FE-4B8E-97CB-4F92B10D34DC}.Debug|Any CPU.ActiveCfg = Debug
+		{180912EA-96FE-4B8E-97CB-4F92B10D34DC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D79A40D-42C9-4050-8DBB-120BDE39E4AA}
+	EndGlobalSection
+EndGlobal
